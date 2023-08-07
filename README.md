@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=v2X51AVgl3o">
-        <img src="https://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
+        <img src="http://img.youtube.com/vi/v2X51AVgl3o/0.jpg"/>
     </a>
 </p>
 
@@ -52,6 +52,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
                     <sub><b>Ali Solanki</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/ankukushwaha">
+                    <img src="https://avatars.githubusercontent.com/u/112270833?v=4" width="100px;" alt="Ankur Kumari Kushwaha"/>
+                    <br />
+                    <sub><b>Ankur Kumari Kushwaha</b></sub>
                 </a> 
             </td>
             <td align="center">
